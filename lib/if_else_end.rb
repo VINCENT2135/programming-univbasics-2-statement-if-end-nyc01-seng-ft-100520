@@ -2,4 +2,5 @@ if true
   puts "Even!"
 else
    puts "Odd!"
-end # Write your solution here
+end
+current_time = Time.now # Write your solution here
